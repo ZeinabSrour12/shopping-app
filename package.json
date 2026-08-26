@@ -12,10 +12,11 @@
     "react": "latest",
     "react-dom": "latest",
     "react-redux": "latest",
-    "react-router-dom": "latest"
+    "react-router-dom": "latest",
+    "vite": "8.2.2"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "latest",
-    "vite": "8.2.2"
+    "@vitejs/plugin-react": "latest"
+    
   }
 }
